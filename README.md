@@ -4,7 +4,7 @@ I don’t like testing. There. I said it. I’m a junkie for clean code though. 
 
 ## About
 
-**Speaker:** Brian Kidd, Web Application Architect from Bloomberg
+**Speaker:** Brian Kidd, Web Application Architect from Bloomberg BNA
 
 **Date:** June 20, 2018
 
