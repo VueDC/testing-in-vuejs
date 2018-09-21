@@ -14,3 +14,4 @@ I don’t like testing. There. I said it. I’m a junkie for clean code though. 
 
 * [Slides](https://docs.google.com/presentation/d/1DbEqi6DlWkycVz1b7iVGJY_25XuhjIz32ZCaLkB4AgU/edit#slide=id.p)
 * [Code Repo](https://github.com/wickkidd/vue-test-utils-jest-example)
+* [Recording](https://youtu.be/-HNw7_CKnGk)
